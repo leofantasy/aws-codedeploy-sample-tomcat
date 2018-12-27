@@ -118,8 +118,7 @@
             <h3 class="panel-title">Free alterations</h3>
           </div>
           <div class="panel-body">
-            Don't let this happen to your pooch! 
-            Every purchase comes with free custom alterations to ensure a comfortable and snazzy fit.
+            鹈鹕狗
             <img src="images/alterations-dog4.png" style="width:287px;height:300px;">
           </div>
         </div>
